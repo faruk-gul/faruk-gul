@@ -28,28 +28,16 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-🇬🇧 English
-Hey, I'm Faruk Gül — a passionate Web & iOS Developer based in İstanbul. I love crafting clean, accessible interfaces and building design systems that scale.
-yamlname:        Faruk Gül
-location:    İstanbul, Türkiye 🇹🇷
-role:        Web & iOS Developer
-focus:       [UI/UX, Design Systems, Mobile]
-currently:   Studying Web Programming
-learning:    SwiftUI · TypeScript · Figma
-hobby:       Design • Music • Reading
-motto:       "Code is poetry."
+<h3>🇬🇧 English</h3>
+Web Programming student based in İstanbul. I spend most of my time on front-end development and have recently started picking up iOS with Swift.
+The repositories on this profile are mostly things I built to learn new tools or solve small problems I ran into — a component library, a pomodoro timer, a typing test, and a few others. I pay attention to clean interfaces, accessibility, and readable code.
+Currently looking for internship opportunities where I can keep learning and contribute to real products.
 </td>
 <td width="50%" valign="top">
-🇹🇷 Türkçe
-Merhabalar, ben Faruk Gül — İstanbul'da yaşayan tutkulu bir Web & iOS Geliştiricisi. Sade, erişilebilir arayüzler tasarlamayı ve ölçeklenebilir tasarım sistemleri geliştirmeyi seviyorum.
-yamlad:          Faruk Gül
-konum:       İstanbul, Türkiye 🇹🇷
-meslek:      Web & iOS Geliştiricisi
-odak:        [UI/UX, Tasarım Sistemleri, Mobil]
-şu_an:       Web Programlama öğrencisi
-öğreniyor:   SwiftUI · TypeScript · Figma
-hobi:        Tasarım • Müzik • Kitap
-motto:       "Kod yazmak, hayal kurmaktır."
+<h3>🇹🇷 Türkçe</h3>
+İstanbul'da yaşıyorum, üniversitede Web Programlama okuyorum. Zamanımın büyük kısmını ön uç geliştirmeye ayırıyorum; son zamanlarda Swift ile iOS tarafına da bakmaya başladım.
+Profilimdeki repoların çoğu yeni bir şey öğrenmek ya da ufak bir problemi çözmek için yazdığım projeler — bileşen kütüphanesi, pomodoro sayacı, yazma hızı testi ve birkaç tane daha. Sade arayüzler, erişilebilirlik ve okunaklı kod benim için önemli.
+Şu anda öğrenmeye devam edebileceğim ve gerçek ürünlere katkı verebileceğim bir staj fırsatı arıyorum.
 </td>
 </tr>
 </table>
@@ -127,6 +115,42 @@ motto:       "Kod yazmak, hayal kurmaktır."
 </td>
 </tr>
 </table>
+<br/>
+<!-- ══════════════════════════════════════════════════════ -->
+<!--  PAC-MAN CONTRIBUTION GAME                             -->
+<!-- ══════════════════════════════════════════════════════ -->
+🕹️   Pac-Man   ·   Katkı Grafiğinde Pac-Man
+<div align="center">
+<img src="https://raw.githubusercontent.com/faruk-gul/faruk-gul/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man eating my contributions" />
+<sub>🟡 Pac-Man, GitHub katkı noktalarımı yiyor! / Pac-Man is chomping through my contribution dots!</sub>
+</div>
+<details>
+<summary><b>⚙️ Kurulum · Setup</b> (tıkla / click to expand)</summary>
+<br/>
+Bu animasyon için faruk-gul/faruk-gul reposuna .github/workflows/pacman.yml dosyasını ekleyin. / To enable this animation, add .github/workflows/pacman.yml to the faruk-gul/faruk-gul repo.
+yamlname: Generate Pac-Man Contribution Graph
+on:
+  schedule: [{ cron: "0 */12 * * *" }]
+  workflow_dispatch:
+  push: { branches: [main] }
+permissions:
+  contents: write
+jobs:
+  pacman:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: abozanta/pacman-contribution-graph@v0.0.5
+        with:
+          github_user_name: faruk-gul
+          outputs: |
+            dist/pacman-contribution-graph.svg
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+</details>
 <br/>
 <!-- ══════════════════════════════════════════════════════ -->
 <!--  ACTIVITY GRAPH                                        -->
