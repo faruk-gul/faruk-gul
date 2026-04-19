@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,16,12,8&height=200&section=header&text=Faruk%20G%C3%BCl&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFF,50:5B8DEF,100:1EA7FD&height=220&section=header&text=Faruk%20G%C3%BCl&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 <a href="https://github.com/faruk-gul">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=7C5CFF&center=true&vCenter=true&width=520&lines=Web+%26+iOS+Developer;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript;Python+Developer;Swift+%26+iOS+Geliştiricisi;Kod+yazmak%2C+hayal+kurmakt%C4%B1r" alt="typing" />
 </a>
@@ -96,20 +96,5 @@ Tooling
 
 "Sade bir arayüz, derin bir düşüncenin sonucudur."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,16,12,8&height=100&section=footer" width="100%" />
-</div>## Hi there 👋
-
-<!--
-**faruk-gul/faruk-gul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1EA7FD,50:5B8DEF,100:7C5CFF&height=120&section=footer" width="100%" />
+</div>
