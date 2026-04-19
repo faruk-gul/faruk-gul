@@ -35,22 +35,18 @@
 
 <h3>🇬🇧 English</h3>
 
-Web Programming student based in İstanbul. I spend most of my time on front-end development and have recently started picking up iOS with Swift.
+I am a Computer Engineering student based in Istanbul, deeply passionate about building modern, user-centric interfaces. While I dedicate most of my time to Front-end development, I have recently been expanding my expertise into the iOS ecosystem using Swift.
 
-The repositories on this profile are mostly things I built to learn new tools or solve small problems I ran into — a component library, a pomodoro timer, a typing test, and a few others. I pay attention to clean interfaces, accessibility, and readable code.
-
-Currently looking for internship opportunities where I can keep learning and contribute to real products.
+In my projects, I prioritize clean code architecture, accessibility, and minimalist UI design. The repositories on my GitHub—ranging from component libraries to performance-oriented tools—reflect my commitment to continuous learning and solving real-world problems through technology. I am currently seeking an internship opportunity where I can apply my engineering discipline to professional products and contribute to meaningful development cycles.
 
 </td>
 <td width="50%" valign="top">
 
 <h3>🇹🇷 Türkçe</h3>
 
-İstanbul'da yaşıyorum, üniversitede Web Programlama okuyorum. Zamanımın büyük kısmını ön uç geliştirmeye ayırıyorum; son zamanlarda Swift ile iOS tarafına da bakmaya başladım.
+İstanbul’da yaşayan bir Bilgisayar Mühendisliği öğrencisiyim. Zamanımın büyük bir kısmını modern ve kullanıcı odaklı ön uç (Front-end) teknolojilerine ayırıyor, son dönemde Swift ile iOS ekosistemine de odaklanarak mobil dünyada kendimi geliştiriyorum.
 
-Profilimdeki repoların çoğu yeni bir şey öğrenmek ya da ufak bir problemi çözmek için yazdığım projeler — bileşen kütüphanesi, pomodoro sayacı, yazma hızı testi ve birkaç tane daha. Sade arayüzler, erişilebilirlik ve okunaklı kod benim için önemli.
-
-Şu anda öğrenmeye devam edebileceğim ve gerçek ürünlere katkı verebileceğim bir staj fırsatı arıyorum.
+Projelerimde temiz kod yapısı (clean code), erişilebilirlik ve sade arayüz tasarımı ilkelerini benimsiyorum. GitHub profilimde yer alan bileşen kütüphaneleri ve performans odaklı araçlar, yeni teknolojileri öğrenme ve gerçek problemlere çözüm üretme tutkumun bir yansımasıdır. Şu an, mühendislik disipliniyle gerçek ürünlere değer katabileceğim ve profesyonel süreçleri deneyimleyebileceğim bir staj fırsatı arıyorum.
 
 </td>
 </tr>
