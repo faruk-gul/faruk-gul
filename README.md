@@ -1,18 +1,11 @@
-<!--
-  ╔═══════════════════════════════════════════════════════════╗
-  ║   Faruk Gül — GitHub Profile README                       ║
-  ║   Bilingual · Animated · Lumen-UI themed                  ║
-  ╚═══════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFF,50:5B8DEF,100:1EA7FD&height=240&section=header&text=Faruk%20G%C3%BCl&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20%26%20iOS%20Developer%20%E2%80%A2%20Design%20Systems%20Enthusiast&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFF,50:5B8DEF,100:1EA7FD&height=240&section=header&text=Faruk%20G%C3%BCl&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20and%20iOS%20Developer%20%E2%80%A2%20Design%20Systems%20Enthusiast&descAlignY=60&descSize=18" width="100%" />
 
 <br/>
 
 <a href="https://github.com/faruk-gul">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=700&color=7C5CFF&center=true&vCenter=true&multiline=false&width=640&height=50&lines=Hi+there+%F0%9F%91%8B+I'm+Faruk;Merhaba+%F0%9F%91%8B+Ben+Faruk;Web+%26+iOS+Developer+from+%C4%B0stanbul;%C4%B0stanbul'dan+Web+%26+iOS+Geliştiricisi;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript+%E2%80%A2+Python+%E2%80%A2+Swift;Code+is+poetry+%E2%80%94+Kod+yazmak%2C+hayal+kurmakt%C4%B1r" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=700&color=7C5CFF&center=true&vCenter=true&multiline=false&width=640&height=50&lines=Hi+there+%F0%9F%91%8B+I'm+Faruk;Merhaba+%F0%9F%91%8B+Ben+Faruk;Web+and+iOS+Developer+from+%C4%B0stanbul;%C4%B0stanbul'dan+Web+and+iOS+Geli%C5%9Ftiricisi;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript+%E2%80%A2+Python+%E2%80%A2+Swift;Code+is+poetry+%E2%80%94+Kod+yazmak%2C+hayal+kurmakt%C4%B1r" alt="typing animation" />
 </a>
 
 <br/><br/>
@@ -138,18 +131,6 @@ Projelerimde temiz kod yapısı (clean code), erişilebilirlik ve sade arayüz t
 </td>
 </tr>
 </table>
-
-<br/>
-
-## 🕹️ &nbsp; Pac-Man &nbsp; · &nbsp; Katkı Grafiğinde Pac-Man
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/faruk-gul/faruk-gul/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man eating my contributions" />
-
-<sub>🟡 Pac-Man, GitHub katkı noktalarımı yiyor! / Pac-Man is chomping through my contribution dots!</sub>
-
-</div>
 
 <br/>
 
